@@ -2,7 +2,7 @@
 
 ## About
 
-This is a wails template based on the the official Wails Svelte-TS template.
+This is a wails template based on the official Wails Svelte-TS template.
 
 It implements Svelte, Vite, TypeScript, Tailwindcss and the FlowBite framework.
 
