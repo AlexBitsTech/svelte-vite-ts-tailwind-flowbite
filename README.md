@@ -2,13 +2,20 @@
 
 ## About
 
-This is the official Wails Svelte-TS template.
+This is a wails template based on the the official Wails Svelte-TS template.
+
+It implements Svelte, Vite, TypeScript, Tailwindcss and the FlowBite framework.
+
+## Installation
+
+To use the template, run `wails init` with the url of this repo as the template parameter like so:
+```
+wails init -n <name_of_project> -t https://github.com/AlexBitsTech/svelte-vite-ts-tailwind-flowbite
+```
 
 ## Live Development
 
-To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
-directory and run `npm run dev`. The frontend dev server will run on http://localhost:34115. Connect to this in your
-browser and connect to your application.
+To run in live development mode, run `wails dev` in the generated project directory.
 
 ## Building
 
