@@ -3,5 +3,5 @@
   "shortname": "svelte-ts-tailwind-flowbite",
   "author": "AlexBitsTech",
   "description": "Svelte + TS + Vite development server with Tailwindcss and FlowBite component library",
-  "helpurl": "https://wails.io"
+  "helpurl": "https://github.com/AlexBitsTech/svelte-vite-ts-tailwind-flowbite"
 }
