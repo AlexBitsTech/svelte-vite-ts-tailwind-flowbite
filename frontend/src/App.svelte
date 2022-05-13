@@ -11,9 +11,9 @@ import { mdiHome } from '@mdi/js'
         <div class="ml-4 mt-4">
             <p>Thank you for using the <code>svelte-vite-ts-tailwind-flowbite</code> Wails template.</p>
             <p>This template comes pre-configured with Svelte, Vite, TypeScript, Tailwindcss and the flowbite component library.</p>
-            <p>For more information about Wails feel free to visit their <a class="text-blue-700 underline" href="https://www.wails.io/">official website</a>.</p>
-            <p>For more information about Tailwindcss, <a class="text-blue-700 underline" href="https://tailwindcss.com/docs/installation">right this way</a>!</p>
-            <p>Finally, to see everything that the FlowBite framework can offer, <a class="text-blue-700 underline" href="https://flowbite.com/docs/getting-started/quickstart/">click here</a>.</p>
+            <p>For more information about Wails, feel free to visit their <a class="text-blue-700 underline" href="https://wails.io/" target="_blank">official website</a>.</p>
+            <p>For more information about Tailwindcss, <a class="text-blue-700 underline" href="https://tailwindcss.com/docs/installation" target="_blank">right this way</a>!</p>
+            <p>Finally, to see everything that the FlowBite framework can offer, <a class="text-blue-700 underline" href="https://flowbite.com/docs/getting-started/quickstart/" target="_blank">click here</a>.</p>
         </div>
     </div>
     <div class="m-8">
